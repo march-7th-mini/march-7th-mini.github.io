@@ -1,7 +1,7 @@
 # 「崩坏：星穹铁道」三月七配色主题 - 音乐可视化播放器web
 
 
-| [🎶 欢迎点击体验！](https://march-7th-mini.github.io/37musicPlayer.html) | [▶️ 观看演示视频](https://www.bilibili.com/video/BV1Zr7Uz8Efz/?spm_id_from=333.999.0.0) |
+| [🎶 欢迎点击体验！](https://march-7th-mini.github.io/37MusePlayer.html) | [▶️ 观看演示视频](https://www.bilibili.com/video/BV1Zr7Uz8Efz/?spm_id_from=333.999.0.0) |
 
 ## 前言
 最近，DeepSeek R1 模型不是完成了一次“小版本试升级”嘛，听开拓者实测反馈称 R1 可一次性生成超千行无 bug 代码，尤其在复杂工程逻辑和前端开发任务中表现突出，被评价为“编程能力可比肩 Claude 4
