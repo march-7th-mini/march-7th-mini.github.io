@@ -18,7 +18,7 @@
 
 大的来了，右上角点击进入zen模式后，我们就可以抛下我们所有的烦劳，短暂的沉浸在音乐的世界了，这也是我设计这个工具的初衷，我的过去，或许不在从前，而是在我的未来里。所以我一定会一站站走下去，哪怕有一天…没有列车。但我希望你可以好好休息，这样才能多发现一些这个世界最纯粹、最本质的美。
 
-视频预览：https://www.bilibili.com/video/BV1Zr7Uz8Efz/?spm_id_from=333.999.0.0
+[▶️ 观看演示视频](https://www.bilibili.com/video/BV1Zr7Uz8Efz/?spm_id_from=333.999.0.0)
 
 ![主界面展示](https://nrdstudio.cn/assets/uploads/2025/06/PixPin_2025-06-04_21-44-42.png)
 
